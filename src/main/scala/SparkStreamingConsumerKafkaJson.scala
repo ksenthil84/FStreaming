@@ -4,6 +4,7 @@ import org.apache.spark.sql.types.{IntegerType, StringType, StructType}
 //test
 //test second1
 //from github
+//master
 object SparkStreamingConsumerKafkaJson {
 
   def main(args: Array[String]): Unit = {
